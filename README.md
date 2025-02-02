@@ -3,7 +3,7 @@
 ## My Stack
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,tailwindcss,mongodb,mysql,arch,neovim,bash,lua" alt="C++, Javascript, Typescript, React, Nextjs, Tailwindcss, Mongodb, Flutter, Dart, Neovim, Bash">
+    <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,tailwindcss,mongodb,mysql,neovim,bash,lua" alt="C++, Javascript, Typescript, React, Nextjs, Tailwindcss, Mongodb, Flutter, Dart, Neovim, Bash">
   </a>
 </p>
 
