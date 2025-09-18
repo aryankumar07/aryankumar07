@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/aryankumar07">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Aryan Kumar" /></a>
+    <img width="500" height="200" alt="Image" src="https://github.com/user-attachments/assets/18e681e6-5533-4551-878d-23c3db216252" />
+  </a>
 </p>
 
 <p align="center">
@@ -39,7 +40,9 @@
 <details open> 
   <summary><h2>📕 Top Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
+    <a href="https://github.com/pallets/flask">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryankumar07&repo=dotfiles&show_icons=true&theme=dracula&show_description=true" alt="check" />
+    </a>
   </p>
 </details>
 
