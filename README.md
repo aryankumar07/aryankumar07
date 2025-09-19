@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Aryan Kumar/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Curious&Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Curious%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -33,15 +33,35 @@
 
 
 <p align="center">
-<!--   <a href="https://stars.github.com/profiles/aryankumar07/"> -->
-<!--     <img src="https://github.com/aryankumar07/aryankumar07/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a> -->
+  <a href="https://stars.github.com/profiles/aryankumar07/">
+    <img src="https://github.com/user-attachments/assets/44b4535d-2b18-4c9e-bd4b-e62ed7d91530" alt="GitHub Avatar"/>
+  </a>
 </p>
+
 
 <details open> 
   <summary><h2>📕 Top Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/pallets/flask">
+        <a href="https://github.com/NetMods/Rev">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NetMods&repo=Rev&show_icons=true&theme=dracula&show_description=true" alt="check" />
+    </a>
+     <a href="https://github.com/NetMods/Rev-web">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=NetMods&repo=Rev-web&show_icons=true&theme=dracula&show_description=true" alt="check" />
+    </a>
+      <a href="https://github.com/aryankumar07/note_cli">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryankumar07&repo=note_cli&show_icons=true&theme=dracula&show_description=true" alt="check" />
+    </a>
+     <a href="https://github.com/aryankumar07/portfolio">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryankumar07&repo=portfolio&show_icons=true&theme=dracula&show_description=true" alt="check" />
+    </a>
+     <a href="https://github.com/aryankumar07/PM">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryankumar07&repo=PM&show_icons=true&theme=dracula&show_description=true" alt="check" />
+    </a>
+    <a href="https://github.com/aryankumar07/dotfiles">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryankumar07&repo=dotfiles&show_icons=true&theme=dracula&show_description=true" alt="check" />
+    </a>
+      <a href="https://github.com/aryankumar07/honestpol">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryankumar07&repo=honestpol&show_icons=true&theme=dracula&show_description=true" alt="check" />
     </a>
   </p>
 </details>
@@ -111,16 +131,23 @@
     <a href="https://github.com/aryankumar07/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="aryankumar07's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=aryankumar07&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
 
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aryankumar07 Github Stats" src="https://aryankumar07-github-readme-stats.vercel.app/api/?username=aryankumar07&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aryankumar07 Top Languages" src="https://aryankumar07-github-readme-stats.vercel.app/api/top-langs/?username=aryankumar07&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="aryankumar07 Github Stats" 
+       src="https://github-readme-stats.vercel.app/api?username=aryankumar07&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" 
+       height="192px"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img alt="aryankumar07 Top Languages" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryankumar07&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" 
+       height="192px"/>
+</a>
+
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
