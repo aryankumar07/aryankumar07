@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1300px" height="900px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0969da;}
+.cc {fill: #57606a;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1300px" height="900px" fill="#ffffff" rx="15"/>
+<rect width="1300px" height="900px" fill="none" stroke="#d0d7de" stroke-width="2" rx="15"/>
+<g transform="scale(0.65)">
+<text x="15" y="30" fill="#24292f" class="ascii">
+  <tspan x="15" y="30">                        ________                ________       /,-//-/       /</tspan>
+<tspan x="15" y="50">                       `--._`' ,'   ________   `. `'_,--'     //-////       /|</tspan>
+<tspan x="15" y="70">                            `. | .=; \)))(/ ;=. | .'         //-//L/       /^/</tspan>
+<tspan x="15" y="90">                             | `//'_\()(())/_`\\' |         &lt;/='//     _/||^|</tspan>
+<tspan x="15" y="110">                              \ ` /\) _))_))/\ ' /          // //    _/,//|^|</tspan>
+<tspan x="15" y="130">                         _.---+\ ` \)/'\/'\)/ ' />----,    // //    / /_//|^|</tspan>
+<tspan x="15" y="150">                       _/ \o\-=.\ `---;__;---' /'_----.\  // //    |/'///-|^|</tspan>
+<tspan x="15" y="170">                     _//|  `'._\\`---.___,----' /.  |o|\|// //   _//-'//  |^|</tspan>
+<tspan x="15" y="190">                    /`-:' _  |o>||===,   ,====\'|o> `' _\\ //  _//'_// _/||^|</tspan>
+<tspan x="15" y="210">                   \ /`.\/o| `'_/;;:::===:::::>\`'    /o|\\/ _//'_///_/,_/|^|</tspan>
+<tspan x="15" y="230">                  ,-+-./:`:  =/(|:`-"-;:`-"-::||.-. _,--;_||//'_// //-=/  |^|</tspan>
+<tspan x="15" y="250">                 |=='_|\ :|_//==(``::'| ``:'  |)\\o'_.--._\\_ //  //-''   |^|</tspan>
+<tspan x="15" y="270">                 ;--'.}|/_/=/==/(|\   | ,   /|)::\ /\\\\\\\/|`-.-/'       |^|</tspan>
+<tspan x="15" y="290">                   _/==|=/=/==/-\`   /"""\   ';::|/\\\\\\\/||||'/         |^|</tspan>
+<tspan x="15" y="310">                 _/=|==],----'-_|:`.      ,-':/://|`\\\\`'||'/./;.        |^|</tspan>
+<tspan x="15" y="330">                /=--'    ,(()()::\''`-----':'|:&lt;&lt; ||:\|||||''|/|;|        |^|</tspan>
+<tspan x="15" y="350">               |/   ^   |\/__\/|- .-=-`'-=._`/::\>()):\'''.:|/;'.;|       |^|</tspan>
+<tspan x="15" y="370">               /    |\  ||GST\||- \' \ /. \/.:;-:-():::|;;;;/|.;;;|       |^|</tspan>
+<tspan x="15" y="390">              |  ^  |  \||\++/||::-'\-/:;;.===|o\()---.||||/'''.___|      |^|</tspan>
+<tspan x="15" y="410">              |  |\   \|||____j|==============|-' |_.-::|'/.||||---|      '_|</tspan>
+<tspan x="15" y="430">              |  '_  _ \|------|  .`. ..'.' .'|_ &lt;|\:::::/-''''..|||     /'_'</tspan>
+<tspan x="15" y="450">              /--' .=-- |>>>1995'.' .'...'. '.|o| |_\|:\/||||||||''|    /'_/'</tspan>
+<tspan x="15" y="470">             |     v     |10-22&lt;| .;..''.. ;.;.-.-|-;|;/`|---------|   /'_/'</tspan>
+<tspan x="15" y="490">             | ___   _,-"|164min|.'. .'...' ` \-'\|||'/\:|X|.|X|.|X|  /'_/'</tspan>
+<tspan x="15" y="510">            |  _,-'    / `.=====;__;_:_:  ...`.\-'\|//  |:----------|/'_/'</tspan>
+<tspan x="15" y="530">            |         '.--(---___\    \=====____\-'\/-.  \:\|:|&lt;`-=|/'_/'</tspan>
+<tspan x="15" y="550">            |>      ^  | //`-.___,------'___)_/_.+-/'+'eee\:`:|&lt;&lt;&lt;&lt;|'_/'</tspan>
+<tspan x="15" y="570">             |===.  |\/ /'////||`-------'||\\_|,+8/ee88888|/::|-:=&lt;|_/'</tspan>
+<tspan x="15" y="590">            _/\ '\\/ /  |\___'/|||||||||`---'   |/.888""'  \::|&lt;&lt;&lt;`|/'</tspan>
+<tspan x="15" y="610"> _,--._   _/ \ / |'-'  / //||`----------|L_L_L-+/ +'\ \     |---'\&lt;|</tspan>
+<tspan x="15" y="630">|-.__,-| | \ -  :|    //\__  ||| ||| ||| ||| ||/--'_,\ \   /\ -|>>>]</tspan>
+<tspan x="15" y="650">|:'   :| |   / _|/   /\'///|------------------/---|\\\| \ |- __ \>>]</tspan>
+<tspan x="15" y="670">|_.   .|----| |||| .'///`. '| | | | | | | | |/| |___,-| :. \[/\|_ -|</tspan>
+<tspan x="15" y="690">|||  \||--==|_//' //\_''//`=================/==/\\`\`\`\ :  /'_| ||'</tspan>
+<tspan x="15" y="710">|`;   .|         /\'//\'_'///| | | | | | | / ||\`\\`\`\| ` /'_/'-''</tspan>
+<tspan x="15" y="730">|:.  \\|        |//\_'///\_'/| | | | | | |/| ||-|__,--'\\ /'_/'</tspan>
+<tspan x="15" y="750">`-.__,-'         \// \_''//| |=-=-=-=-=-=/=-=-|-|\\ \\`\|/'_/'</tspan>
+<tspan x="15" y="770">                  \//_/\__'|_|| | | | | / | | |  \`\`_`,/'_/'</tspan>
+<tspan x="15" y="790">                   &lt;_/_/_/._||_|_|_|_|/|_|_|_|&lt;=|--'\\/'_/'</tspan>
+<tspan x="15" y="810">                   | &lt;_// _.|__L_L_L_/_L__L_L|   \\|\/'_/'|</tspan>
+<tspan x="15" y="830">                   |_  \/.=-_|_L_L_L_/_L__L_L_'    `-/'_/' |</tspan>
+<tspan x="15" y="850">                   |-'              /  |     _      /'_/  |</tspan>
+<tspan x="15" y="870">                   | ---&gt;   --.__  /|  |   ./_/  __/'_/   |</tspan>
+<tspan x="15" y="890">                   | .-'   __,---'//   /\ /./   __/'_/   -|</tspan>
+<tspan x="15" y="910">                   |   ,'        /'|  /  X/      /'_/`\   |</tspan>
+<tspan x="15" y="930">                   |  |,-   |\  / .'  | //  ____/'_/     /|</tspan>
+<tspan x="15" y="950">                    \_v __   \\/,=|   \// _/::/'__/._ __. |</tspan>
+<tspan x="15" y="970">                      \|::`x--/-. |    \ /|:/'__/.|.:\ -' |</tspan>
+<tspan x="15" y="990">                       \::::\/:|:\/    |/:/'__/::.|.:/|   /</tspan>
+<tspan x="15" y="1010">                        |:::/|=|=|    __/'._/,===:;.| /L\/</tspan>
+<tspan x="15" y="1030">                         \:/:|:|:\ __/'._./-' ::.|.`.|-'</tspan>
+<tspan x="15" y="1050">                          /::|:|:;/'._./ ||:|.::.|.|:|</tspan>
+<tspan x="15" y="1070">                         / |:L;/'._./    ||:|.::.|.|:|</tspan>
+<tspan x="15" y="1090">                        / __/'._/-|       |:|.:: |.||</tspan>
+<tspan x="15" y="1110">                       /_/'_./_   d\_     |:|.::|.:||</tspan>
+<tspan x="15" y="1130">                      /'_./&lt;=.8888888\    |:|.::|.|:|</tspan>
+<tspan x="15" y="1150">                    _/_/  |888=&gt;88888|    |:|.::|.||</tspan>
+<tspan x="15" y="1170">                   /_/   /8888|\8888/     |:|.::|.||</tspan>
+<tspan x="15" y="1190">                  //    |88888||L8/       |:| ::|.||</tspan>
+<tspan x="15" y="1210">                 [/    /8===.88/          |::|.:|.:|</tspan>
+<tspan x="15" y="1230">                      /888888=/            |:|.:|.:|</tspan>
+<tspan x="15" y="1250">                      `------'             |::.::.:|</tspan>
+<tspan x="15" y="1270">                                          /8\=====/8\</tspan>
+<tspan x="15" y="1290">                                          |8888888888</tspan>
+<tspan x="15" y="1310">                                          |8888888888</tspan>
+<tspan x="15" y="1330">                                           `.======.'</tspan>
+<tspan x="15" y="1350">                                            \888888/</tspan>
+<tspan x="15" y="1370">                                             `----'</tspan>
+</text>
+</g>
+<text x="550" y="30" fill="#24292f">
+<tspan x="550" y="30">aryankumar07</tspan> <tspan class="cc">———————————————————————————————————————————————</tspan>
+<tspan x="550" y="50" class="cc">  </tspan><tspan class="key">OS</tspan><tspan class="cc"> ...................... </tspan><tspan class="value">MacOS Sequoia, iOS 26, Linux</tspan>
+<tspan x="550" y="70" class="cc">  </tspan><tspan class="key">Uptime</tspan><tspan class="cc"> .................. </tspan><tspan class="value">23 years</tspan>
+<tspan x="550" y="90" class="cc">  </tspan><tspan class="key">Host</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">TTM Technologies, Inc.</tspan>
+<tspan x="550" y="110" class="cc">  </tspan><tspan class="key">Kernel</tspan><tspan class="cc"> .................. </tspan><tspan class="value">CAM Operator</tspan>
+<tspan x="550" y="130" class="cc">  </tspan><tspan class="key">Shell</tspan><tspan class="cc"> .................... </tspan><tspan class="value">zsh 5.9</tspan>
+<tspan x="550" y="150" class="cc">  </tspan><tspan class="key">IDE</tspan><tspan class="cc"> ...................... </tspan><tspan class="value">NeoVim, VSCode, Cursor</tspan>
+<tspan x="550" y="170" class="cc">  </tspan>
+<tspan x="550" y="190" class="cc">  </tspan><tspan class="key">Languages.Programming</tspan><tspan class="cc"> ... </tspan><tspan class="value">JavaScript, C++, Golang, Python, Java</tspan>
+<tspan x="550" y="210" class="cc">  </tspan><tspan class="key">Languages.Markup</tspan><tspan class="cc"> ........ </tspan><tspan class="value">HTML, CSS, JSON, LaTeX, YAML</tspan>
+<tspan x="550" y="230" class="cc">  </tspan><tspan class="key">Languages.Real</tspan><tspan class="cc"> .......... </tspan><tspan class="value">English, Hindi, Punjabi</tspan>
+<tspan x="550" y="250" class="cc">  </tspan>
+<tspan x="550" y="270" class="cc">  </tspan><tspan class="key">Hobbies.Outdoor</tspan><tspan class="cc"> ......... </tspan><tspan class="value">Travelling, Football, Volleyball</tspan>
+<tspan x="550" y="290" class="cc">  </tspan><tspan class="key">Hobbies.Indoor</tspan><tspan class="cc"> .......... </tspan><tspan class="value">Reading, Drawing</tspan>
+<tspan x="550" y="330"><tspan class="cc">  </tspan>Contact</tspan> <tspan class="cc">————————————————————————————————————————————————</tspan>
+<tspan x="550" y="350" class="cc">  </tspan><tspan class="key">Email.Personal</tspan><tspan class="cc"> ......... </tspan><tspan class="value">ak2839426@gmail.com</tspan>
+<tspan x="550" y="370" class="cc">  </tspan><tspan class="key">Email.Work</tspan><tspan class="cc"> ............. </tspan><tspan class="value">aryan.pageme@gmail.com</tspan>
+<tspan x="550" y="390" class="cc">  </tspan><tspan class="key">GitHub</tspan><tspan class="cc"> .................. </tspan><tspan class="value">github.com/aryankumar07</tspan>
+<tspan x="550" y="410" class="cc">  </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc"> ................ </tspan><tspan class="value">aryan-kumar-45b2a0236</tspan>
+<tspan x="550" y="430" class="cc">  </tspan><tspan class="key">Portfolio</tspan><tspan class="cc"> ............... </tspan><tspan class="value">tarnished.lol</tspan>
+<tspan x="550" y="470"><tspan class="cc">  </tspan>GitHub Stats</tspan> <tspan class="cc">———————————————————————————————————————————————</tspan>
+<tspan x="550" y="490" class="cc">  </tspan><tspan class="key">Repos</tspan><tspan class="cc"> ........... </tspan><tspan class="value">61</tspan>   <tspan class="key">Stars</tspan><tspan class="cc"> ........... </tspan><tspan class="value">0</tspan>
+<tspan x="550" y="510" class="cc">  </tspan><tspan class="key">Commits</tspan><tspan class="cc"> ......... </tspan><tspan class="value">406</tspan>   <tspan class="key">Followers</tspan><tspan class="cc"> ....... </tspan><tspan class="value">3</tspan>
+<tspan x="550" y="530" class="cc">  </tspan><tspan class="key">Organization</tspan><tspan class="cc"> ...... </tspan><tspan class="value">NetMods</tspan>
+<tspan x="550" y="570"><tspan class="cc">  </tspan>Tech Stack</tspan> <tspan class="cc">————————————————————————————————————————————————</tspan>
+<tspan x="550" y="590" class="cc">  </tspan><tspan class="key">Frontend</tspan><tspan class="cc"> ............... </tspan><tspan class="value">React, Next.js, Electron, Flutter, TailwindCSS</tspan>
+<tspan x="550" y="610" class="cc">  </tspan><tspan class="key">Backend</tspan><tspan class="cc"> ................ </tspan><tspan class="value">Node.js, Express, FastAPI, SpringBoot</tspan>
+<tspan x="550" y="630" class="cc">  </tspan><tspan class="key">Database</tspan><tspan class="cc"> ............... </tspan><tspan class="value">PostgreSQL, MongoDB, Redis</tspan>
+<tspan x="550" y="650" class="cc">  </tspan><tspan class="key">Tools</tspan><tspan class="cc"> .................. </tspan><tspan class="value">Git, Docker, Kubernetes</tspan>
+</text>
+</svg>
