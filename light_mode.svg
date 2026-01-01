@@ -91,31 +91,33 @@ text, tspan {white-space: pre;}
 <tspan x="550" y="30">aryankumar07</tspan> <tspan class="cc">———————————————————————————————————————————————</tspan>
 <tspan x="550" y="50" class="cc">  </tspan><tspan class="key">OS</tspan><tspan class="cc"> ...................... </tspan><tspan class="value">MacOS Sequoia, iOS 26, Linux</tspan>
 <tspan x="550" y="70" class="cc">  </tspan><tspan class="key">Uptime</tspan><tspan class="cc"> .................. </tspan><tspan class="value">23 years</tspan>
-<tspan x="550" y="90" class="cc">  </tspan><tspan class="key">Host</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">TTM Technologies, Inc.</tspan>
-<tspan x="550" y="110" class="cc">  </tspan><tspan class="key">Kernel</tspan><tspan class="cc"> .................. </tspan><tspan class="value">CAM Operator</tspan>
-<tspan x="550" y="130" class="cc">  </tspan><tspan class="key">Shell</tspan><tspan class="cc"> .................... </tspan><tspan class="value">zsh 5.9</tspan>
-<tspan x="550" y="150" class="cc">  </tspan><tspan class="key">IDE</tspan><tspan class="cc"> ...................... </tspan><tspan class="value">NeoVim, VSCode, Cursor</tspan>
-<tspan x="550" y="170" class="cc">  </tspan>
-<tspan x="550" y="190" class="cc">  </tspan><tspan class="key">Languages.Programming</tspan><tspan class="cc"> ... </tspan><tspan class="value">JavaScript, C++, Golang, Python, Java</tspan>
-<tspan x="550" y="210" class="cc">  </tspan><tspan class="key">Languages.Markup</tspan><tspan class="cc"> ........ </tspan><tspan class="value">HTML, CSS, JSON, LaTeX, YAML</tspan>
-<tspan x="550" y="230" class="cc">  </tspan><tspan class="key">Languages.Real</tspan><tspan class="cc"> .......... </tspan><tspan class="value">English, Hindi, Punjabi</tspan>
-<tspan x="550" y="250" class="cc">  </tspan>
-<tspan x="550" y="270" class="cc">  </tspan><tspan class="key">Hobbies.Outdoor</tspan><tspan class="cc"> ......... </tspan><tspan class="value">Travelling, Football, Volleyball</tspan>
-<tspan x="550" y="290" class="cc">  </tspan><tspan class="key">Hobbies.Indoor</tspan><tspan class="cc"> .......... </tspan><tspan class="value">Reading, Drawing</tspan>
-<tspan x="550" y="330"><tspan class="cc">  </tspan>Contact</tspan> <tspan class="cc">————————————————————————————————————————————————</tspan>
-<tspan x="550" y="350" class="cc">  </tspan><tspan class="key">Email.Personal</tspan><tspan class="cc"> ......... </tspan><tspan class="value">ak2839426@gmail.com</tspan>
-<tspan x="550" y="370" class="cc">  </tspan><tspan class="key">Email.Work</tspan><tspan class="cc"> ............. </tspan><tspan class="value">aryan.pageme@gmail.com</tspan>
-<tspan x="550" y="390" class="cc">  </tspan><tspan class="key">GitHub</tspan><tspan class="cc"> .................. </tspan><tspan class="value">github.com/aryankumar07</tspan>
-<tspan x="550" y="410" class="cc">  </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc"> ................ </tspan><tspan class="value">aryan-kumar-45b2a0236</tspan>
-<tspan x="550" y="430" class="cc">  </tspan><tspan class="key">Portfolio</tspan><tspan class="cc"> ............... </tspan><tspan class="value">tarnished.lol</tspan>
-<tspan x="550" y="470"><tspan class="cc">  </tspan>GitHub Stats</tspan> <tspan class="cc">———————————————————————————————————————————————</tspan>
-<tspan x="550" y="490" class="cc">  </tspan><tspan class="key">Repos</tspan><tspan class="cc"> ........... </tspan><tspan class="value">61</tspan>   <tspan class="key">Stars</tspan><tspan class="cc"> ........... </tspan><tspan class="value">0</tspan>
-<tspan x="550" y="510" class="cc">  </tspan><tspan class="key">Commits</tspan><tspan class="cc"> ......... </tspan><tspan class="value">406</tspan>   <tspan class="key">Followers</tspan><tspan class="cc"> ....... </tspan><tspan class="value">3</tspan>
-<tspan x="550" y="530" class="cc">  </tspan><tspan class="key">Organization</tspan><tspan class="cc"> ...... </tspan><tspan class="value">NetMods</tspan>
-<tspan x="550" y="570"><tspan class="cc">  </tspan>Tech Stack</tspan> <tspan class="cc">————————————————————————————————————————————————</tspan>
-<tspan x="550" y="590" class="cc">  </tspan><tspan class="key">Frontend</tspan><tspan class="cc"> ............... </tspan><tspan class="value">React, Next.js, Electron, Flutter, TailwindCSS</tspan>
-<tspan x="550" y="610" class="cc">  </tspan><tspan class="key">Backend</tspan><tspan class="cc"> ................ </tspan><tspan class="value">Node.js, Express, FastAPI, SpringBoot</tspan>
-<tspan x="550" y="630" class="cc">  </tspan><tspan class="key">Database</tspan><tspan class="cc"> ............... </tspan><tspan class="value">PostgreSQL, MongoDB, Redis</tspan>
-<tspan x="550" y="650" class="cc">  </tspan><tspan class="key">Tools</tspan><tspan class="cc"> .................. </tspan><tspan class="value">Git, Docker, Kubernetes</tspan>
+<tspan x="550" y="90" class="cc">  </tspan><tspan class="key">Shell</tspan><tspan class="cc"> ................... </tspan><tspan class="value">zsh</tspan>
+<tspan x="550" y="110" class="cc">  </tspan><tspan class="key">IDE</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">NeoVim, VSCode, Cursor</tspan>
+<tspan x="550" y="130" class="cc">  </tspan><tspan class="key">Alias</tspan><tspan class="cc"> ................... </tspan><tspan class="value">TARNISHED</tspan>
+<tspan x="550" y="150" class="cc">  </tspan>
+<tspan x="550" y="170" class="cc">  </tspan><tspan class="key">Languages.Programming</tspan><tspan class="cc"> ... </tspan><tspan class="value">JavaScript, C++, Golang, Python, Java</tspan>
+<tspan x="550" y="190" class="cc">  </tspan><tspan class="key">Languages.Markup</tspan><tspan class="cc"> ........ </tspan><tspan class="value">HTML, CSS, JSON, LaTeX, YAML</tspan>
+<tspan x="550" y="210" class="cc">  </tspan><tspan class="key">Languages.Real</tspan><tspan class="cc"> .......... </tspan><tspan class="value">English, Hindi, Punjabi</tspan>
+<tspan x="550" y="230" class="cc">  </tspan>
+<tspan x="550" y="250" class="cc">  </tspan><tspan class="key">Hobbies.Outdoor</tspan><tspan class="cc"> ......... </tspan><tspan class="value">Travelling, Football, Volleyball</tspan>
+<tspan x="550" y="270" class="cc">  </tspan><tspan class="key">Hobbies.Indoor</tspan><tspan class="cc"> .......... </tspan><tspan class="value">Reading, Drawing</tspan>
+<tspan x="550" y="290" class="cc">  </tspan>
+<tspan x="550" y="310"><tspan class="cc">  </tspan>Contact</tspan> <tspan class="cc">————————————————————————————————————————————————</tspan>
+<tspan x="550" y="330" class="cc">  </tspan><tspan class="key">Email.Personal</tspan><tspan class="cc"> .......... </tspan><tspan class="value">ak2839426@gmail.com</tspan>
+<tspan x="550" y="350" class="cc">  </tspan><tspan class="key">Email.Work</tspan><tspan class="cc"> .............. </tspan><tspan class="value">aryan.pageme@gmail.com</tspan>
+<tspan x="550" y="370" class="cc">  </tspan><tspan class="key">GitHub</tspan><tspan class="cc"> .................. </tspan><tspan class="value">github.com/aryankumar07</tspan>
+<tspan x="550" y="390" class="cc">  </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc"> ................ </tspan><tspan class="value">aryan-kumar-45b2a0236</tspan>
+<tspan x="550" y="410" class="cc">  </tspan><tspan class="key">Portfolio</tspan><tspan class="cc"> ............... </tspan><tspan class="value">tarnished.lol</tspan>
+  <tspan x="550" y="430" class="cc">  </tspan>
+<tspan x="550" y="450"><tspan class="cc">  </tspan>GitHub Stats</tspan> <tspan class="cc">———————————————————————————————————————————————</tspan>
+<tspan x="550" y="470" class="cc">  </tspan><tspan class="key">Repos</tspan><tspan class="cc"> ........... </tspan><tspan class="value">61</tspan>   <tspan class="key">Stars</tspan><tspan class="cc"> ........... </tspan><tspan class="value">0</tspan>
+<tspan x="550" y="490" class="cc">  </tspan><tspan class="key">Commits</tspan><tspan class="cc"> ......... </tspan><tspan class="value">406</tspan>   <tspan class="key">Followers</tspan><tspan class="cc"> ....... </tspan><tspan class="value">3</tspan>
+<tspan x="550" y="510" class="cc">  </tspan><tspan class="key">Organization</tspan><tspan class="cc"> ...... </tspan><tspan class="value">NetMods</tspan>
+  <tspan x="550" y="530" class="cc">  </tspan>
+<tspan x="550" y="550"><tspan class="cc">  </tspan>Tech Stack</tspan> <tspan class="cc">————————————————————————————————————————————————</tspan>
+<tspan x="550" y="570" class="cc">  </tspan><tspan class="key">Frontend</tspan><tspan class="cc"> ............... </tspan><tspan class="value">React, Next.js, Electron, Flutter, TailwindCSS</tspan>
+<tspan x="550" y="590" class="cc">  </tspan><tspan class="key">Backend</tspan><tspan class="cc"> ................ </tspan><tspan class="value">Node.js, Express, FastAPI, SpringBoot</tspan>
+<tspan x="550" y="610" class="cc">  </tspan><tspan class="key">Database</tspan><tspan class="cc"> ............... </tspan><tspan class="value">PostgreSQL, MongoDB, Redis</tspan>
+<tspan x="550" y="630" class="cc">  </tspan><tspan class="key">Tools</tspan><tspan class="cc"> .................. </tspan><tspan class="value">Git, Docker, Kubernetes</tspan>
 </text>
 </svg>
